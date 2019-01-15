@@ -1,0 +1,1 @@
+## Scalefog build-templates
